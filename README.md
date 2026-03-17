@@ -10,4 +10,4 @@ Key features:
  Visualize insights through a beautiful Power BI dashboard
  Create a project report for documentation (mandatory in real teams)
  Build a presentation deck using Gamma AI
- Publish everything on GitHub to make your portfolio stand out
+ 
